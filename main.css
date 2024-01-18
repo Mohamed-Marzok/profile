@@ -29,6 +29,9 @@ body.dark-mode {
 .dark-mode .menu li label .title ion-icon {
   color: #ddd;
 }
+.dark-mode .menu li label .title {
+  color: #ddd;
+}
 .box {
   background-color: white;
   box-shadow: 2px 4px 10px #ddd;
